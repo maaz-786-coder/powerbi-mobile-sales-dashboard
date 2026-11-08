@@ -1,4 +1,4 @@
-# powerbi-mobile-sales-dashboard
+# powerbi-(Motorola)mobile-sales-dashboard
 📱 Mobile Sales Analysis Dashboard | Power BI
 
 📌 Project Overview
@@ -34,3 +34,33 @@ Power Query – Data cleaning and transformation.
 DAX – Calculations and measures.
 
 Excel – Source dataset.
+
+🎛️ Interactive Features
+
+The dashboard includes four interactive slicers:
+
+Mobile Model – Filter sales by specific mobile models.
+
+Payment Method – Analyse transactions by payment type.
+
+Brand – Compare different mobile brands.
+
+Day Name – Explore sales performance across weekdays.
+
+These slicers allow users to dynamically explore the data and analyse different business scenarios.
+
+💡 Business Insights
+
+The dashboard is designed to help identify:
+
+Which mobile brands and models generate higher revenue.
+
+Which cities contribute significantly to overall sales.
+
+Which payment methods are preferred by customers.
+
+How mobile sales quantity changes over time.
+
+Which days generate higher sales.
+
+How customer ratings are distributed.
